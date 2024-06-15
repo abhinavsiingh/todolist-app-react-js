@@ -50,3 +50,16 @@ This is a simple React To-Do List application that allows users to add, remove, 
    - Add tasks and make changes (mark complete, edit, delete).
    - Refresh the page.
    - Verify the tasks and changes persist.
+  
+## Installation
+
+1. Clone the repository:
+   git clone https://github.com/your-username/react-todo-list.git
+
+2. Navigate to the project directory:
+   cd react-todo-list
+
+4. Install dependencies:
+   npm install
+5. Start the application:
+   npm start
